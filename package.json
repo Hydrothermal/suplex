@@ -1,0 +1,29 @@
+{
+    "name": "suplex",
+    "author": {
+        "name": "Hydrothermal",
+        "email": "curradid@yahoo.com"
+    },
+    "version": "1.0.0",
+    "main": "bin/suplex",
+    "bin": {
+        "suplex": "./bin/suplex.js"
+    },
+    "description": "substitution cipher assistant",
+    "keywords": [
+        "cli"
+    ],
+    "dependencies": {
+        "colors": "~1.0"
+    },
+    "engine": "node ~0.10",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hydrothermal/suplex"
+    },
+    "bugs": {
+        "url": "https://github.com/Hydrothermal/suplex/issues"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/Hydrothermal/suplex"
+}
