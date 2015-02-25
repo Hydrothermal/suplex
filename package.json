@@ -4,7 +4,7 @@
         "name": "Hydrothermal",
         "email": "curradid@yahoo.com"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "bin/suplex",
     "bin": {
         "suplex": "./bin/suplex.js"
@@ -24,6 +24,7 @@
     "bugs": {
         "url": "https://github.com/Hydrothermal/suplex/issues"
     },
+    "preferGlobal": true,
     "license": "MIT",
     "homepage": "https://github.com/Hydrothermal/suplex"
 }
